@@ -1,0 +1,3 @@
+/home/theophrastus/Downloads/gameserv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/theophrastus/Downloads/gameserv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/theophrastus/Downloads/gameserv/cmake-build-debug/CMakeFiles/gameserv.dir
